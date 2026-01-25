@@ -24,5 +24,5 @@
 - Data Structures & Algorithms
 
 ### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/KondepatiNishitha
+- LinkedIn: https://www.linkedin.com/in/nishithakondepati/
 
