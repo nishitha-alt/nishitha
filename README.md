@@ -15,7 +15,7 @@
 - 🔗 Responsive Website  
   👉 https://github.com/nishitha-alt/responsive-website  
 
-- 🔗 To-Do App (JavaScript)  
+- 🔗 Weather app (JavaScript)  
   👉 https://github.com/nishitha-alt/weather-API  
 
 
